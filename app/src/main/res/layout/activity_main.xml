@@ -57,64 +57,52 @@
             >
 
             <Button
+                android:id="@+id/btn1"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="#EBE1DD"
                 android:layout_weight="1"
-                android:layout_marginTop="5dp"
-                android:layout_marginBottom="5dp"
-                android:layout_marginLeft="5dp"
-                android:layout_marginRight="5dp"/>
+                android:layout_margin="5dp"/>
 
             <Button
+                android:id="@+id/btn2"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="#ECCBCA"
                 android:layout_weight="1"
-                android:layout_marginTop="5dp"
-                android:layout_marginBottom="5dp"
-                android:layout_marginLeft="5dp"
-                android:layout_marginRight="5dp"/>
+                android:layout_margin="5dp"/>
 
             <Button
+                android:id="@+id/btn3"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="#75839C"
                 android:layout_weight="1"
-                android:layout_marginTop="5dp"
-                android:layout_marginBottom="5dp"
-                android:layout_marginLeft="5dp"
-                android:layout_marginRight="5dp"/>
+                android:layout_margin="5dp"/>
 
             <Button
+                android:id="@+id/btn4"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="#99A9BF"
                 android:layout_weight="1"
-                android:layout_marginTop="5dp"
-                android:layout_marginBottom="5dp"
-                android:layout_marginLeft="5dp"
-                android:layout_marginRight="5dp"/>
+                android:layout_margin="5dp"/>
 
             <Button
+                android:id="@+id/btn5"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="#C3CCD5"
                 android:layout_weight="1"
-                android:layout_marginTop="5dp"
-                android:layout_marginBottom="5dp"
-                android:layout_marginLeft="5dp"
-                android:layout_marginRight="5dp"/>
+                android:layout_margin="5dp"/>
 
             <Button
+                android:id="@+id/btn6"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="#DDE2E5"
                 android:layout_weight="1"
-                android:layout_marginTop="5dp"
-                android:layout_marginBottom="5dp"
-                android:layout_marginLeft="5dp"
-                android:layout_marginRight="5dp"/>
+                android:layout_margin="5dp"/>
         </LinearLayout>
 
     </LinearLayout>
